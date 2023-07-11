@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    padding-left: 100px;
+}
+.container {
+   display: flex; 
+   justify-content: space-between;
+   flex-direction: row; 
+}
+.span{
+ text-align:center;   
+}
+
